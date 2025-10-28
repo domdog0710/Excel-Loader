@@ -1,0 +1,10 @@
+{
+  "name": "com.domdom.excel.loader",
+  "displayName": "Excel Loader",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Excel Loader",
+  "author": {
+    "name": "Dom Dom"
+  }
+}
